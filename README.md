@@ -19,7 +19,6 @@ npm install
 
 
 
-Tentu, berikut adalah contoh isi file README.md yang dapat Anda gunakan untuk proyek "IP Checker":
 
 markdown
 Copy code
@@ -33,7 +32,7 @@ Aplikasi sederhana untuk mengecek alamat IP pengguna. Aplikasi ini menggunakan N
 
 2. Clone repositori ini ke komputer Anda:
    ```bash
-   git clone <URL_repositori>
+   git clone https://github.com/Xcord42/ip-checker-app
 Masuk ke direktori proyek:
 
 bash
