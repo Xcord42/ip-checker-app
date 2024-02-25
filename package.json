@@ -4,11 +4,11 @@
     "description": "Aplikasi sederhana untuk mengecek alamat IP pengguna.",
     "main": "src/app.js",
     "scripts": {
-      "start": "node src/app.js"
+        "start": "node src/app.js"
     },
     "dependencies": {
-      "express": "^4.17.1",
-      "request-ip": "^2.1.3"
+        "ip-checker-app": "git+https://github.com/Xcord42/ip-checker-app.git",
+        "express": "^4.17.1",
+        "request-ip": "^2.1.3"
     }
-  }
-  
+}
